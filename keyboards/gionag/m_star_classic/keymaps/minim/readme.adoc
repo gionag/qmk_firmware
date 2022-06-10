@@ -1,0 +1,5 @@
+== The default keymap for the Unicomp Mini M (2021) 
+== This keymap works only with the M-Star controller for the Unicomp Mini M (like a modern version of the Model M SSK, but from Unicomp)
+== 
+== 
+

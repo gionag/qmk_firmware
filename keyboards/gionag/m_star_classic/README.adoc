@@ -1,0 +1,21 @@
+== QMK Keymaps for the M-Star Classic
+
+The M-Star Classic PCB requires the corresponding keymap for your particular
+"Model M" to be loaded in order to function correctly.
+
+Confirmed working keymaps:
+
+default::
+       "Generic" Model M matrix -- works with US 101/102 Terminal M, 1391401, SSK*, etc
+ssk::
+       Same as default, except adds "numlock" layer found on Tenkey-less (TKL) "SSK" style Model Ms
+
+j7000::
+	Layout for Model M 122 "for AT computers" 13917000
+
+m122::
+	Layout for M122 "terminal" style Model Ms. Note that there are many
+	keycap variants of this keyboard and this key map may need to be
+	adjusted to your liking.
+
+// end
