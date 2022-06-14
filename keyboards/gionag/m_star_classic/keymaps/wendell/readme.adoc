@@ -1,5 +1,0 @@
-== The default keymap for the M-Star Classic Replacement Model M controller for wendell 
-== replcaes caps with lgui and caps comes from COMBOing left and right shift.
-== press and hold numlock for an FN layer. Pause is mute, scroll lock is vol down and print screen is vol up in this layer.
-== (this is basically a sandbox for QMK expeirmentation but this is what I like).
-

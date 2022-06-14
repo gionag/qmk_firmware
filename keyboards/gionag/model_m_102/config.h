@@ -10,7 +10,7 @@
 #define USB_MAX_POWER_CONSUMPTION 100
 #define DEBOUNCE 3
 #define MATRIX_HAS_GHOST
-#define TAPPING_TERM 175
+#define TAPPING_TERM 140
 
 /*
  * Feature disable options

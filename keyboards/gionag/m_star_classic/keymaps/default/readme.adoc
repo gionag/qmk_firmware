@@ -1,1 +1,0 @@
-== The default keymap for the M Star Classic - Replacement controllers for IBM Model M (and Unicomp!) keyboards - note the SSK will also work with this layout however we have not yet created the "Numlock" layer for the SSK. 

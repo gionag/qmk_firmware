@@ -1,3 +1,0 @@
-==  The keymap for M-Star Classic for AT 122s (20 + 8 + 4 LEDs) WIP -- Working, but the keymap is asyet incomplete. 
-
-This is a work in progress. This keymap is intended for The AT M122 (with LEDs) 

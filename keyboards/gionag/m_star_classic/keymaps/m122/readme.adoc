@@ -1,4 +1,0 @@
-==  The keymap for M-Star Classic for M122s (20 + 8) WIP -- Unconfirmed working
-
-This is a work in progress. This keymap is intended for repurposed Terminal/Mainframe 122-key model M keyboards 
-
